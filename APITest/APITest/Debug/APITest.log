@@ -1,0 +1,6 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Main.cpp
+  Core.cpp
+  Generating Code...
+Core.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  APITest.vcxproj -> C:\Users\jpmis\Desktop\StardockEntertainmentAPITest\APITest\Debug\APITest.exe
